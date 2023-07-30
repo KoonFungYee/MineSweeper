@@ -2,7 +2,8 @@
 
 ### Description
 
-* Download the minesweeper.zip and unzip it.
+* Select master branch if you would like to clone from git.
+* Select main branch if you would like to download the minesweeper.zip and unzip it.
 * Run the application on MinesweeperApplication.java
 * Size of grid must in between 3 to 6.
 * The system will fill in number of mines into random places based on the user input.
